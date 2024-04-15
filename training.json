@@ -1,16 +1,15 @@
 {
-  "location": {
+  "name": "Max Mustermann",
+  "age": 25,
+  "address": {
     "city": "Salzburg",
     "zip": "5020",
-    "street": "Salzburgerstraße",
-    "number": "50"
+    "street": "Salzburgerstraße"
   },
-  "age": 25,
-  "job": "Software Developer",
   "hobbies": [
     "Soccer",
     "Tennis",
-    "Climbing"
-  ],
-  "name": "Max Mustermann"
+    "Climbing",
+    "Cooking"      
+  ]
 }
