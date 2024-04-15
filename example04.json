@@ -1,15 +1,15 @@
 {
-  "vehicle": "SUV",
+  "vehicle": "Opel",
   "options": [
     {
-      "name": "Base Model",
+      "name": "Astra",
       "features": {
-        "engine": "2.0L",
+        "engine": "1.7L",
         "seats": "cloth"
       }
     },
     {
-      "name": "Luxury Model",
+      "name": "Astra Luxury Model",
       "features": {
         "engine": "3.0L",
         "seats": "leather"
