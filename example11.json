@@ -3,9 +3,9 @@
   "categories": [
     {
       "name": "Feature Films",
-      "entries": [
+      "movies": [
         {
-          "title": "Eternal Journey",
+          "name": "Eternal Journey",
           "details": {
             "director": "Sophia Tran",
             "length": "120 minutes",
@@ -13,34 +13,34 @@
           }
         },
         {
-          "title": "Silent Waves",
+          "name": "Silent Waves",
           "details": {
-            "director": "Luis Gomez",
             "length": "90 minutes",
+            "director": "Luis Gomez",
             "genre": "Thriller"
           }
         },
         {
-          "title": "Rising Sun",
+          "name": "Rising Sun",
           "details": {
-            "director": "Raj Patel",
             "length": "150 minutes",
+            "director": "Raj Patel",
             "genre": "Historical"
           }
         },
         {
-          "title": "Nightfall",
+          "name": "Nightfall",
           "details": {
-            "director": "Emma Clarke",
             "length": "110 minutes",
+            "director": "Emma Clarke",
             "genre": "Horror"
           }
         },
         {
-          "title": "Echoes of Time",
+          "name": "Echoes of Time",
           "details": {
-            "director": "Michael Smith",
             "length": "95 minutes",
+            "director": "Michael Smith",
             "genre": "Sci-Fi"
           }
         }

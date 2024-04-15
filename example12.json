@@ -5,17 +5,12 @@
       "name": "Development",
       "teams": [
         {
-          "name": "Frontend",
+          "name": "Fullstack",
           "members": [
             {"name": "Alice", "role": "Lead Developer"},
             {"name": "Bob", "role": "Junior Developer"},
             {"name": "Charlie", "role": "UI/UX Designer"},
-            {"name": "David", "role": "Tester"}
-          ]
-        },
-        {
-          "name": "Backend",
-          "members": [
+            {"name": "David", "role": "Tester"},
             {"name": "Eve", "role": "Lead Developer"},
             {"name": "Frank", "role": "Database Admin"},
             {"name": "Grace", "role": "System Architect"},

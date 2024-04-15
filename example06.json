@@ -1,5 +1,6 @@
 {
   "university": "State University",
+  "dean": "Mr Study",
   "colleges": [
     {
       "name": "Engineering",
@@ -30,6 +31,42 @@
               "name": "Circuit Analysis",
               "details": {
                 "credits": 3,
+                "semester": "Fall"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Medicine",
+          "courses": [
+            {
+              "name": "Medical Analysis",
+              "details": {
+                "credits": 3,
+                "semester": "Fall"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Sports Science",
+          "courses": [
+            {
+              "name": "Track Running",
+              "details": {
+                "credits": 3,
+                "semester": "Spring"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Technical Engineering",
+          "courses": [
+            {
+              "name": "Technical Analysis",
+              "details": {
+                "credits": 4,
                 "semester": "Fall"
               }
             }

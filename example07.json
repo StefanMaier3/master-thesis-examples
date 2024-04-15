@@ -10,8 +10,8 @@
             {
               "type": "Grassland",
               "foodSources": {
-                "primary": "Grasses",
-                "secondary": "Shrubs"
+                "first": "Grasses",
+                "second": "Shrubs"
               }
             }
           ]
@@ -22,8 +22,8 @@
             {
               "type": "Forest",
               "foodSources": {
-                "primary": "Small mammals",
-                "secondary": "Berries"
+                "first": "Small mammals",
+                "second": "Berries"
               }
             }
           ]
