@@ -1,18 +1,25 @@
 {
-  "vehicle": "SUV",
-  "options": [
+  "library": "City Library",
+  "sections": [
     {
-      "name": "Base Model",
-      "features": {
-        "engine": "2.0L",
-        "seats": "cloth"
+      "name": "Fiction",
+      "books": {
+        "total": 120,
+        "available": 80
       }
     },
     {
-      "name": "Luxury Model",
-      "features": {
-        "engine": "3.0L",
-        "seats": "leather"
+      "name": "Non-Fiction",
+      "books": {
+        "total": 90,
+        "available": 70
+      }
+    },
+    {
+      "name": "Reference",
+      "books": {
+        "total": 40,
+        "available": 40
       }
     }
   ]
