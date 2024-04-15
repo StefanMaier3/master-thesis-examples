@@ -4,7 +4,6 @@
     {
       "name": "Child 1",
       "details": {
-        "age": 10,
         "favoriteColor": "blue"
       }
     },
@@ -17,13 +16,6 @@
             "age": 5,
             "favoriteColor": "green"
           }
-        },
-        {
-          "name": "Grandchild 2",
-          "details": {
-            "age": 3,
-            "favoriteColor": "yellow"
-          }
         }
       ]
     },
@@ -32,7 +24,16 @@
       "details": {
         "age": 8,
         "favoriteColor": "red"
-      }
+      },
+      "children": [
+        {
+          "name": "Grandchild 2",
+          "details": {
+            "age": 3,
+            "favoriteColor": "yellow"
+          }
+        }
+      ]
     }
   ]
 }
