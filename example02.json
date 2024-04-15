@@ -4,8 +4,8 @@
     {
       "name": "Alice",
       "attributes": {
-        "position": "Manager",
-        "years": 5
+        "position": "Leader",
+        "years": 6
       }
     },
     {
@@ -16,10 +16,17 @@
       }
     },
     {
-      "name": "Charlie",
+      "name": "Ken",
       "attributes": {
-        "position": "Coordinator",
-        "years": 2
+        "position": "Developer",
+        "years": 1
+      }
+    },
+    {
+      "name": "Andi",
+      "attributes": {
+        "position": "Developer",
+        "years": 1
       }
     }
   ]
