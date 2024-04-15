@@ -1,0 +1,26 @@
+{
+  "department": "Human Resources",
+  "employees": [
+    {
+      "name": "Alice",
+      "attributes": {
+        "position": "Manager",
+        "years": 5
+      }
+    },
+    {
+      "name": "Bob",
+      "attributes": {
+        "position": "Recruiter",
+        "years": 3
+      }
+    },
+    {
+      "name": "Charlie",
+      "attributes": {
+        "position": "Coordinator",
+        "years": 2
+      }
+    }
+  ]
+}

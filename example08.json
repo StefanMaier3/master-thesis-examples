@@ -1,0 +1,34 @@
+{
+  "company": "Tech Innovations Inc.",
+  "divisions": [
+    {
+      "name": "Research and Development",
+      "teams": [
+        {
+          "name": "AI Research",
+          "projects": [
+            {
+              "name": "Natural Language Processing",
+              "details": {
+                "lead": "Dr. Alan",
+                "status": "Ongoing"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Robotics",
+          "projects": [
+            {
+              "name": "Automated Manufacturing Robots",
+              "details": {
+                "lead": "Dr. Rina",
+                "status": "Design phase"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

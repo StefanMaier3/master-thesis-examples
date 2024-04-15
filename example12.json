@@ -1,0 +1,37 @@
+{
+  "softwareCompany": "Innovatech Solutions",
+  "departments": [
+    {
+      "name": "Development",
+      "teams": [
+        {
+          "name": "Frontend",
+          "members": [
+            {"name": "Alice", "role": "Lead Developer"},
+            {"name": "Bob", "role": "Junior Developer"},
+            {"name": "Charlie", "role": "UI/UX Designer"},
+            {"name": "David", "role": "Tester"}
+          ]
+        },
+        {
+          "name": "Backend",
+          "members": [
+            {"name": "Eve", "role": "Lead Developer"},
+            {"name": "Frank", "role": "Database Admin"},
+            {"name": "Grace", "role": "System Architect"},
+            {"name": "Hank", "role": "Tester"}
+          ]
+        },
+        {
+          "name": "DevOps",
+          "members": [
+            {"name": "Ivy", "role": "Lead DevOps"},
+            {"name": "Josh", "role": "Security Specialist"},
+            {"name": "Karen", "role": "Cloud Engineer"},
+            {"name": "Leo", "role": "Tester"}
+          ]
+        }
+      ]
+    }
+  ]
+}

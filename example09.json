@@ -1,0 +1,29 @@
+{
+  "hospital": "City Health Center",
+  "departments": [
+    {
+      "name": "Pediatrics",
+      "units": [
+        {
+          "name": "General Care",
+          "services": [
+            {
+              "type": "Regular Checkups",
+              "details": {
+                "frequency": "Monthly",
+                "nurse": "Susan"
+              }
+            },
+            {
+              "type": "Vaccinations",
+              "details": {
+                "frequency": "As needed",
+                "nurse": "Mike"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

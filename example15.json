@@ -1,0 +1,16 @@
+{
+  "smartHomeSystem": "NextGen Home Automation",
+  "features": [
+    {
+      "name": "Security",
+      "components": [
+        {"type": "Cameras", "brand": "SecureCam"},
+        {"type": "Alarms", "brand": "AlertPro"},
+        {"type": "Motion Sensors", "brand": "MotionDetect"},
+        {"type": "Smart Locks", "brand": "LockSmart"},
+        {"type": "Window Sensors", "brand": "WindowGuard"},
+        {"type": "Garage Door Opener", "brand": "AutoDoor"}
+      ]
+    }
+  ]
+}

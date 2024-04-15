@@ -1,0 +1,25 @@
+{
+  "internationalSchool": "Global Scholars Academy",
+  "grades": [
+    {
+      "level": "Elementary",
+      "classes": [
+        {"teacher": "Mrs. Adams", "subject": "Mathematics"},
+        {"teacher": "Mr. Benson", "subject": "Science"},
+        {"teacher": "Ms. Carter", "subject": "English"},
+        {"teacher": "Mrs. Davis", "subject": "History"},
+        {"teacher": "Mr. Ellis", "subject": "Art"}
+      ]
+    },
+    {
+      "level": "Middle School",
+      "classes": [
+        {"teacher": "Mrs. Ford", "subject": "Mathematics"},
+        {"teacher": "Mr. Grant", "subject": "Science"},
+        {"teacher": "Ms. Harper", "subject": "English"},
+        {"teacher": "Mrs. Irwin", "subject": "History"},
+        {"teacher": "Mr. Jones", "subject": "Physical Education"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "vehicle": "SUV",
+  "options": [
+    {
+      "name": "Base Model",
+      "features": {
+        "engine": "2.0L",
+        "seats": "cloth"
+      }
+    },
+    {
+      "name": "Luxury Model",
+      "features": {
+        "engine": "3.0L",
+        "seats": "leather"
+      }
+    }
+  ]
+}

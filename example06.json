@@ -1,0 +1,41 @@
+{
+  "university": "State University",
+  "colleges": [
+    {
+      "name": "Engineering",
+      "departments": [
+        {
+          "name": "Computer Science",
+          "courses": [
+            {
+              "name": "Introduction to Programming",
+              "details": {
+                "credits": 3,
+                "semester": "Fall"
+              }
+            },
+            {
+              "name": "Data Structures",
+              "details": {
+                "credits": 4,
+                "semester": "Spring"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Electrical Engineering",
+          "courses": [
+            {
+              "name": "Circuit Analysis",
+              "details": {
+                "credits": 3,
+                "semester": "Fall"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

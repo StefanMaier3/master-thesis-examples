@@ -1,0 +1,26 @@
+{
+  "product": "Laptop",
+  "models": [
+    {
+      "name": "Model A",
+      "specs": {
+        "processor": "Intel i7",
+        "RAM": "16GB"
+      }
+    },
+    {
+      "name": "Model B",
+      "specs": {
+        "processor": "AMD Ryzen 5",
+        "RAM": "16GB"
+      }
+    },
+    {
+      "name": "Model C",
+      "specs": {
+        "processor": "Intel i5",
+        "RAM": "8GB"
+      }
+    }
+  ]
+}

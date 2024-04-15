@@ -1,0 +1,25 @@
+{
+  "ecosystem": "Amazon Rainforest",
+  "layers": [
+    {
+      "name": "Canopy",
+      "species": [
+        {"commonName": "Harpy Eagle", "scientificName": "Harpia harpyja"},
+        {"commonName": "Howler Monkey", "scientificName": "Alouatta caraya"},
+        {"commonName": "Sloth", "scientificName": "Bradypus variegatus"},
+        {"commonName": "Toucan", "scientificName": "Ramphastos toco"},
+        {"commonName": "Red-eyed Tree Frog", "scientificName": "Agalychnis callidryas"}
+      ]
+    },
+    {
+      "name": "Understory",
+      "species": [
+        {"commonName": "Jaguar", "scientificName": "Panthera onca"},
+        {"commonName": "Anaconda", "scientificName": "Eunectes murinus"},
+        {"commonName": "Poison Dart Frog", "scientificName": "Dendrobates tinctorius"},
+        {"commonName": "Electric Eel", "scientificName": "Electrophorus electricus"},
+        {"commonName": "Piranha", "scientificName": "Pygocentrus nattereri"}
+      ]
+    }
+  ]
+}

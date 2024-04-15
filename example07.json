@@ -1,0 +1,34 @@
+{
+  "forest": "Greenwood",
+  "areas": [
+    {
+      "name": "North Section",
+      "wildlife": [
+        {
+          "species": "Deer",
+          "habitat": [
+            {
+              "type": "Grassland",
+              "foodSources": {
+                "primary": "Grasses",
+                "secondary": "Shrubs"
+              }
+            }
+          ]
+        },
+        {
+          "species": "Fox",
+          "habitat": [
+            {
+              "type": "Forest",
+              "foodSources": {
+                "primary": "Small mammals",
+                "secondary": "Berries"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

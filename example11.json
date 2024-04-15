@@ -1,0 +1,50 @@
+{
+  "filmFestival": "Global Film Awards",
+  "categories": [
+    {
+      "name": "Feature Films",
+      "entries": [
+        {
+          "title": "Eternal Journey",
+          "details": {
+            "director": "Sophia Tran",
+            "length": "120 minutes",
+            "genre": "Drama"
+          }
+        },
+        {
+          "title": "Silent Waves",
+          "details": {
+            "director": "Luis Gomez",
+            "length": "90 minutes",
+            "genre": "Thriller"
+          }
+        },
+        {
+          "title": "Rising Sun",
+          "details": {
+            "director": "Raj Patel",
+            "length": "150 minutes",
+            "genre": "Historical"
+          }
+        },
+        {
+          "title": "Nightfall",
+          "details": {
+            "director": "Emma Clarke",
+            "length": "110 minutes",
+            "genre": "Horror"
+          }
+        },
+        {
+          "title": "Echoes of Time",
+          "details": {
+            "director": "Michael Smith",
+            "length": "95 minutes",
+            "genre": "Sci-Fi"
+          }
+        }
+      ]
+    }
+  ]
+}

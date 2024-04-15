@@ -1,0 +1,41 @@
+{
+  "onlineStore": "Gadgets World",
+  "categories": [
+    {
+      "name": "Smartphones",
+      "brands": [
+        {
+          "name": "BrandX",
+          "models": [
+            {
+              "name": "X100",
+              "specifications": {
+                "screen": "6.5 inch",
+                "battery": "4500mAh"
+              }
+            },
+            {
+              "name": "X200",
+              "specifications": {
+                "screen": "6.7 inch",
+                "battery": "5000mAh"
+              }
+            }
+          ]
+        },
+        {
+          "name": "BrandY",
+          "models": [
+            {
+              "name": "Y10",
+              "specifications": {
+                "screen": "5.8 inch",
+                "battery": "3000mAh"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Example Node",
+  "children": [
+    {
+      "name": "Child 1",
+      "details": {
+        "age": 10,
+        "favoriteColor": "blue"
+      }
+    },
+    {
+      "name": "Child 2",
+      "children": [
+        {
+          "name": "Grandchild 1",
+          "details": {
+            "age": 5,
+            "favoriteColor": "green"
+          }
+        },
+        {
+          "name": "Grandchild 2",
+          "details": {
+            "age": 3,
+            "favoriteColor": "yellow"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Child 3",
+      "details": {
+        "age": 8,
+        "favoriteColor": "red"
+      }
+    }
+  ]
+}
