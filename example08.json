@@ -30,5 +30,8 @@
         }
       ]
     }
-  ]
+  ],
+  "board_member1": {"name": "Bob"},
+  "board_member2": {"name": "Ken"},
+  "board_member3": {"name": "Barbie"}
 }

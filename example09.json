@@ -1,5 +1,4 @@
 {
-  "hospital": "City Health Center",
   "departments": [
     {
       "name": "Pediatrics",
@@ -10,20 +9,30 @@
             {
               "type": "Regular Checkups",
               "details": {
-                "frequency": "Monthly",
-                "nurse": "Susan"
+                "nurse": "Susan",
+                "frequency": "Monthly"
               }
             },
             {
-              "type": "Vaccinations",
               "details": {
                 "frequency": "As needed",
                 "nurse": "Mike"
-              }
+              },
+              "type": "Vaccinations"
+            }
+          ]
+        },
+        {
+          "name": "Extra Care",
+          "services": [
+            {
+              "type": "Emergency Pets",
+              "frequency": "daily"
             }
           ]
         }
       ]
     }
-  ]
+  ],
+  "hospital": "City Health Center"
 }

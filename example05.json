@@ -4,7 +4,7 @@
     {
       "name": "Fiction",
       "books": {
-        "total": 120,
+        "total": 140,
         "available": 80
       }
     },
@@ -20,6 +20,13 @@
       "books": {
         "total": 40,
         "available": 40
+      }
+    },
+    {
+      "name": "Romance",
+      "books": {
+        "total": 20,
+        "available": 10
       }
     }
   ]

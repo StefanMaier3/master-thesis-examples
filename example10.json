@@ -5,32 +5,29 @@
       "name": "Smartphones",
       "brands": [
         {
+          "brand_id": 1,
           "name": "BrandX",
           "models": [
-            {
-              "name": "X100",
-              "specifications": {
-                "screen": "6.5 inch",
-                "battery": "4500mAh"
-              }
-            },
             {
               "name": "X200",
               "specifications": {
                 "screen": "6.7 inch",
-                "battery": "5000mAh"
+                "battery": "5000mAh",
+                "power": "high"
               }
             }
           ]
         },
         {
+          "brand_id": 2,
           "name": "BrandY",
           "models": [
             {
               "name": "Y10",
               "specifications": {
                 "screen": "5.8 inch",
-                "battery": "3000mAh"
+                "battery": "3000mAh",
+                "power": "low"
               }
             }
           ]

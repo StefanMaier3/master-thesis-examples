@@ -17,6 +17,11 @@
         {"teacher": "Mrs. Ford", "subject": "Mathematics"},
         {"teacher": "Mr. Grant", "subject": "Science"},
         {"teacher": "Ms. Harper", "subject": "English"},
+      ]
+    },
+    {
+      "level": "Grade School",
+      "classes": [
         {"teacher": "Mrs. Irwin", "subject": "History"},
         {"teacher": "Mr. Jones", "subject": "Physical Education"}
       ]
